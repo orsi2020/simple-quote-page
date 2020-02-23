@@ -70,3 +70,10 @@ body {
   word-spacing: 10px;
   font-family: "Julius Sans One", sans-serif;
   }
+.name {
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-family: "Crimson Text", serif;
+  font-style: italic;
+  margin-top: 40px;
+}
