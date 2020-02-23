@@ -56,3 +56,17 @@ body {
   width: 100%;
   color: dimgrey;
  }
+.content {
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.quote{
+  font-size: 30px;
+  line-height: 1.5;
+  letter-spacing: 1.2px;
+  word-spacing: 10px;
+  font-family: "Julius Sans One", sans-serif;
+  }
